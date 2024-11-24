@@ -119,8 +119,9 @@
             <img src="https://img.shields.io/static/v1?message=Manuel%20Stephano%20Chavez%20Anton&logo=linkedin&label=Certificates%20at&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
         </a>
     </div>
-    
- 📊 GitHub Stats: 📊
+    <br clear="both">
+ <h3 align="left"> 📊 GitHub Stats 📊 </h3>
+
 <br clear="both">
 <div align="center">
 <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts" />
@@ -133,10 +134,12 @@
     
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
     
-🏆 GitHub Trophies 🏆
+<br clear="both">
+ <h3 align="left">🏆 GitHub Trophies 🏆</h3>
     
 ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-🔝 Top Contributed Repo 🔝
+<br clear="both">
+ <h3 align="left">🔝 Top Contributed Repo 🔝</h3>
 https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true
 
 <h3 align="left">📈 Pinned Repositories 📈</h3>
@@ -154,7 +157,8 @@ https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5
 </a>
 [![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
         
-🟩⬜ Contributions 🟩⬜
+<br clear="both">
+ <h3 align="left"> 🟩⬜ Contributions 🟩⬜</h3>
 </head>
 <body>
     <div class="serpiente"></div>
