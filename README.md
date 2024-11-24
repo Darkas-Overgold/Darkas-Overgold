@@ -150,8 +150,8 @@ https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5
 <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Discrete_Mathematics" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Discrete_Mathematics&theme=dark" alt="Pinned Repo 3" /><br/>
 </a>
-<a href="https://github.com/Darkas-Overgold/UPC_2023-1_Algorithms_TF" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Algorithms_TF&theme=dark" alt="Pinned Repo 4" /><br/>
+<a href="https://github.com/Darkas-Overgold/UPC_2022-2_Algorithms_TF" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-2_Algorithms_TF&theme=dark" alt="Pinned Repo 4" /><br/>
 </a>
 
 <br clear="both">
