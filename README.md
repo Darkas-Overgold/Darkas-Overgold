@@ -84,6 +84,9 @@
         <a href="https://linktr.ee/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Darkas%20Overgold&logo=linktree&label=About%20me&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
         </a>
+                <a href="https://www.linkedin.com/in/darkas/" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=Manuel%20Stephano%20Chavez%20Anton&logo=linkedin&label=Certificates%20at&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+        </a>
         <a href="https://discord.com/users/1c07914389250b..." target="_blank">
             <img src="https://img.shields.io/static/v1?message=dev.darkas.me&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
         </a>
@@ -110,9 +113,6 @@
         </a>
         <a href="https://x.com/Stephano113975" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=NSFW&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-        </a>
-        <a href="https://www.linkedin.com/in/darkas/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Manuel%20Stephano%20Chavez%20Anton&logo=linkedin&label=Certificates%20at&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
         </a>
     </div>
  <h3 align="center"> 📊 GitHub Stats 📊 </h3>
