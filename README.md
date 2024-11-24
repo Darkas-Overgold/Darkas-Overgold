@@ -160,20 +160,13 @@
 </div>
 <br>
 
-# Gráfico de Contribuciones
-
-Este gráfico muestra mis contribuciones en GitHub. Puedes ver el gráfico según el esquema de colores de tu elección.
-
-## Generación del Gráfico
-
-Para generar este gráfico, se utiliza la acción de GitHub `Platane/snk@v3`. A continuación, un ejemplo de cómo configurarlo en tu archivo de flujo de trabajo:
+# 🟩⬜ Contributions 🟩⬜
 
 ```yaml
 
 - uses: Platane/snk@v3
   with:
-    # Nombre de usuario de GitHub para leer el gráfico de contribuciones (**requerido**)
-    github_user_name: ${{ github.repository_owner }}
+    github_user_name: ${{ Darkas-Overgold }}
 
     # Lista de archivos a generar.
     # Cada archivo por línea. Cada salida se puede personalizar con opciones como cadena de consulta.
