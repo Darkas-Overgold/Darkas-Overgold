@@ -117,12 +117,16 @@
             <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=NSFW&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
         </a>
     </div>
-    <h3 class="center">🔝 Top Contributed Repo 🔝</h3>
-    <div class="center">
-        <a href="https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true" target="_blank">
-            https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true
-        </a>
-    </div>
+<h3 class="center">✍️ Random Dev Quote ✍️</h3>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<h3 class="center">🔝 Top Contributed Repo 🔝</h3>
+
+![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
+</div>
     <h3 class="center">📈 Pinned Repositories 📈</h3>
     <div class="center">
         <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
@@ -140,9 +144,14 @@
     </div>
     <div class="center">
         <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"> 
-            https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6 
+            
+https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6 
+            
         </a>
     </div>
+---
+[![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
+
 </body>
 </html>
 
