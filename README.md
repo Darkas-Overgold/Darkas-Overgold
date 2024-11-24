@@ -116,20 +116,22 @@
     </div>
 
 <h3 align="center"> 📊 GitHub Stats 📊 </h3>
-    <div align="center">
-        <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts" />
-    </div>
+<div align="center">
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts" />
+    
+</div>
 
 <div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
-        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 </div>
 
 <h3 align="center">🏆 GitHub Trophies 🏆</h3>
     <div align="center">
-![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)      
+![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+        
 </div>
 
 <div align="center">
@@ -140,8 +142,9 @@
     <div align="center">
         <a href="https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true" target="_blank">
             https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true
-        </a>
-    </div>
+            
+</a>
+</div>
 
 <h3 align="center">📈 Pinned Repositories 📈</h3>
     <div align="center">
@@ -170,8 +173,7 @@
     <div class="serpiente"></div>
     <br/>
     <div align="center">
-        <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank">    
-            https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6
+        <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"> href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6"
         </a>
     </div>
 </body>
