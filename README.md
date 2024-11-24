@@ -160,25 +160,33 @@
 </div>
 <br>
 
+# Gráfico de Contribuciones
+
+Este gráfico muestra mis contribuciones en GitHub. Puedes ver el gráfico según el esquema de colores de tu elección.
+
+## Generación del Gráfico
+
+Para generar este gráfico, se utiliza la acción de GitHub `Platane/snk@v3`. A continuación, un ejemplo de cómo configurarlo en tu archivo de flujo de trabajo:
+
+```yaml
+
 - uses: Platane/snk@v3
   with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
+    # Nombre de usuario de GitHub para leer el gráfico de contribuciones (**requerido**)
     github_user_name: ${{ github.repository_owner }}
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
+    # Lista de archivos a generar.
+    # Cada archivo por línea. Cada salida se puede personalizar con opciones como cadena de consulta.
     #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
+    # Opciones soportadas:
+    # - palette:     Un conjunto de colores, uno de [github, github-dark, github-light]
+    # - color_snake: Color de la serpiente
+    # - color_dots:  Lista de colores de los puntos separados por comas.
+    #                 El primero es para 0 contribuciones, luego va de la baja a la alta contribución.
+    #                 Se esperan exactamente 5 colores.
     outputs: |
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-<br>
