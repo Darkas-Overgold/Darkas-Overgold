@@ -149,14 +149,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
 
-<br>
+---
 <br>
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts"/>
 </div>
 <br>
 
-🎵 Music 🎵
+--- 🎵 Music 🎵
 
 <br><br>
 <div align="center">
