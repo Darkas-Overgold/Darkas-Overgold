@@ -142,6 +142,24 @@
         <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts" />
     </div>
 
+<div align="center">
+        ![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+        ![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
+        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+    </div>
+    
+<h3 align="center">🏆 GitHub Trophies 🏆</h3>
+    <div align="center">
+        ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+    </div>
+
+<h3 align="center">🔝 Top Contributed Repo 🔝</h3>
+    <div align="center">
+        <a href="https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true" target="_blank">
+            https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true
+        </a>
+    </div>
+
 <h3 align="center"> 🟩⬛ Contributions 🟩⬛</h3>
     <div class="contributions">
         <img class="golden-snake" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Golden Snake of Contributions" />
@@ -150,9 +168,9 @@
             <div style="color: gold;">Contribution Overview:</div>
             <div style="color: white;">Years & Months:</div>
             <ul style="list-style-type: none; padding: 0; color: white;">
-                <li>2024: January, February, March, April...</li>
-                <li>2023: January, February, March, April...</li>
-                <li>2022: January, February, March, April...</li>
+                <li>2024: January, February, March, April, May, June, July, August, September, October, November, December</li>
+                <li>2023: January, February, March, April, May, June, July, August, September, October, November, December</li>
+                <li>2022: January, February, March, April, May, June, July, August, September, October, November, December</li>
             </ul>
         </div>
     </div>
