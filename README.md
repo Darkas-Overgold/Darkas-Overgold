@@ -122,17 +122,17 @@
     </div>
 
 <div align="center">
-!(https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+!https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true<br/>
 
-!(https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
+!https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false<br/>
         
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+!https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact<br/>
         
 </div>
     
 <h3 align="center">🏆 GitHub Trophies 🏆</h3>
     <div align="center">
-        ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+        !https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4
     </div>
 
 <h3 align="center">🔝 Top Contributed Repo 🔝</h3>
@@ -179,11 +179,10 @@
         </a>
     </div>
 
-<div align="center">
-        <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"> 
-            https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6 
-        </a>
-    </div>
+<div align="center"> <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"> 
+ https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6 
+</a>
+</div>
 </head>
 <body>
     <div class="serpiente"></div>
