@@ -119,9 +119,6 @@
             <img src="https://img.shields.io/static/v1?message=Manuel%20Stephano%20Chavez%20Anton&logo=linkedin&label=Certificates%20at&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
         </a>
     </div>
-🔝 Top Contributed Repo 🔝
-
-https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true
 
 <br clear="both">
 <div align="center">
@@ -146,6 +143,9 @@ https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5
 🏆 GitHub Trophies 🏆
     
 ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+🔝 Top Contributed Repo 🔝
+https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true
+
 <h3 align="left">📈 Pinned Repositories 📈</h3>
 <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" />
