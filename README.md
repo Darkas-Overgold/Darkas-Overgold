@@ -133,6 +133,9 @@
 
 ###
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
 <br clear="both">
 
 <div align="center">
@@ -142,22 +145,32 @@
 ###
 ---
 <br>
-    📊 GitHub Stats 📊
-    <br><br>
-    ![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-    🏆 GitHub Trophies 🏆
-    ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-    
-    <h3 align="left">📈 Pinned Repositories 📈</h3>
-    
-    <a href="https://github.com/Darkas-Overgold?tab=repositories" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=nombre_del_repo&theme=dark" alt="Pinned Repo" />
-    </a>
-    <br>
+   # 📊 GitHub Stats: 📊
+   
+![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-    ---
-[![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+
+<h3 align="left">📈 Pinned Repositories 📈</h3>
+
+<a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=nombre_del_repo_1&theme=dark" alt="Pinned Repo 1" />
+</a>
+<a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Python_Programming" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=nombre_del_repo_2&theme=dark" alt="Pinned Repo 2" />
+</a>
+<a href="https://github.com/Darkas-Overgold/UPC_2023-1_Discrete_Mathematics" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=nombre_del_repo_3&theme=dark" alt="Pinned Repo 3" />
+</a>
+<a href="https://github.com/Darkas-Overgold/UPC_2023-1_Algorithms_TF" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=nombre_del_repo_4&theme=dark" alt="Pinned Repo 4" />
+</a>
     
+[![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
+## 🟩⬜ Contributions 🟩⬜
 </head>
 <body>
     <div class="serpiente"></div>
