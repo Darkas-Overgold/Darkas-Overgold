@@ -122,12 +122,11 @@
     </div>
 <h3 class="center">🔝 Top Contributed Repo 🔝</h3>
 
-[![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
 </div>
     <h3 class="center">📈 Pinned Repositories 📈</h3>
-    ---
     <div class="center">
         <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" /><br/>
