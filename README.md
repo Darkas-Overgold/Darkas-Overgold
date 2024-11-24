@@ -1,10 +1,10 @@
-<br > 
+<br> 
 
 <h2 align="left">Hi 👋! My name is Stephano Chavez and I'm a Information System Management Student with 6 years of experience, from Peru.</h2>
 
 ###
 
-<br >
+<br>
 
 <h3 align="left">Languages 💬</h3>
 
@@ -46,7 +46,7 @@
 
 ###
 
-<br >
+<br>
 
 <h3 align="left">Tools 🔧</h3>
 
@@ -90,7 +90,7 @@
 
 ##
 
-<br >
+<br>
 
 <h3 align="left">Frameworks  💻</h3>
 
@@ -110,7 +110,7 @@
 
 ###
 
-<br >
+<br>
 
 <h3 align="left">Media</h3>
 
@@ -151,16 +151,6 @@
 
 ##
 
-<br >
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-##
-
-##
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
@@ -177,7 +167,15 @@
 
 ##
 
-<br >
+<br>
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+##
+
+<br>
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"  />
