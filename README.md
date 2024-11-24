@@ -117,11 +117,9 @@
             <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=NSFW&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
         </a>
     </div>
-<h3 class="center">✍️ Random Dev Quote ✍️</h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+<div align="center">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" /><br/>
+    </div>
 <h3 class="center">🔝 Top Contributed Repo 🔝</h3>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
@@ -145,10 +143,7 @@
     <div class="center">
         <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"> 
             
-https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6 
-            
-        </a>
-    </div>
+</a></div>
 ---
 [![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
 
