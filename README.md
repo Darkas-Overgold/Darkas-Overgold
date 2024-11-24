@@ -119,13 +119,6 @@
             <img src="https://img.shields.io/static/v1?message=Manuel%20Stephano%20Chavez%20Anton&logo=linkedin&label=Certificates%20at&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
         </a>
     </div>
-
-<br clear="both">
-<div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" />
-</div>
-<br clear="both">
-<br>
     
  📊 GitHub Stats: 📊
 <br clear="both">
@@ -165,6 +158,12 @@ https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5
 </head>
 <body>
     <div class="serpiente"></div>
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" />  
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" />
+    <br clear="both">
+<div align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" />
+</div>
+<br clear="both">
+<br>
 </body>
 </html>
