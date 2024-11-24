@@ -151,33 +151,37 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
 
+---
 ##
-
 <br><br>
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"  />
 </div>
-<br>
+
+---
+##
+<br><br>
 
 # 🟩⬜ Contributions 🟩⬜
 
-```yaml
-
 - uses: Platane/snk@v3
   with:
-    github_user_name: ${{ Manuel Stephano Chavez Anton }}
-
+    github_user_name: "Darkas-Overgold"
+    
     # Lista de archivos a generar.
     # Cada archivo por línea. Cada salida se puede personalizar con opciones como cadena de consulta.
-    #
-    # Opciones soportadas:
-    # - palette:     github-dark
-    # - color_snake: goldenrod
-    # - color_dots:  goldenrod
     outputs: |
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="output_dark.png">
+        <img alt="@Darkas-Overgold" src="output_light.png">
+      </picture>
+
+    # Opciones personalizadas
+    palette: github-dark
+    color_snake: goldenrod
+    color_dots: goldenrod
+rcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
