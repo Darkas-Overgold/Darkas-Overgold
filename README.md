@@ -156,17 +156,17 @@ https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Algorithms_TF&theme=dark" alt="Pinned Repo 4" />
 </a>
 [![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
-        
+
+<br clear="both">
+<div align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" />
+</div>
 <br clear="both">
  <h3 align="left"> 🟩⬜ Contributions 🟩⬜</h3>
 </head>
 <body>
     <div class="serpiente"></div>
     <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" />
-    <br clear="both">
-<div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" />
-</div>
 <br clear="both">
 <br>
 </body>
