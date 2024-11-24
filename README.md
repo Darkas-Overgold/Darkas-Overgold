@@ -3,6 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Contributions</title>
+    <style>
+        body {
+            background-color: #121212; /* Dark background for dark mode */
+            color: white; /* Light text color */
+        }
+        .serpiente {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        .contributions {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .golden-snake {
+            display: inline-block;
+            width: 100%;
+            height: auto;
+        }
+    </style>
     <h2 align="center">Hi 👋! My name is Stephano Chavez and I'm a Information System Management Student with 6 years of experience, from Peru.</h2>
     <h3 align="center">💬 Languages 💬</h3>
     <div align="center">
@@ -98,14 +120,14 @@
         <a href="https://www.instagram.com/darkas_vox_ch/" target="_blank">
             <img src="https://img.shields.io/static/v1?message=darkas_vox_ch&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
         </a>
-        <a href="https://darkas-overgold.itch.io/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Darkas&logo=itch.io&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-        </a>
         <a href="https://ko-fi.com/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20girlfriend&logo=ko-fi&label=Comms%20open&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
         </a>
         <a href="https://www.paypal.me/DarkasOvergold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Manuel%20Chavez%20Anton&logo=paypal&label=Tips&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo" />
+        </a>
+        <a href="https://darkas-overgold.itch.io/" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=Darkas&logo=itch.io&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
         </a>
         <a href="https://m.twitch.tv/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Darkas_Overgold&logo=twitch&label=Streams%20at&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
@@ -116,35 +138,30 @@
     </div>
 
 <h3 align="center"> 📊 GitHub Stats 📊 </h3>
-<div align="center">
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts" />
-    
-</div>
-
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-</div>
-
-<h3 align="center">🏆 GitHub Trophies 🏆</h3>
     <div align="center">
-![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-        
-</div>
-
-<div align="center">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" /><br/>
+        <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts" />
     </div>
 
-<h3 align="center">🔝 Top Contributed Repo 🔝</h3>
-    <div align="center">
+<h3 align="center"> 🟩⬛ Contributions 🟩⬛</h3>
+    <div class="contributions">
+        <img class="golden-snake" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Golden Snake of Contributions" />
+        <br/>
+        <div id="contribution-details" style="text-align: center;">
+            <div style="color: gold;">Contribution Overview:</div>
+            <div style="color: white;">Years & Months:</div>
+            <ul style="list-style-type: none; padding: 0; color: white;">
+                <li>2024: January, February, March, April...</li>
+                <li>2023: January, February, March, April...</li>
+                <li>2022: January, February, March, April...</li>
+            </ul>
+        </div>
+    </div>
+
+<div align="center">
         <a href="https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true" target="_blank">
             https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true
-            
-</a>
-</div>
+        </a>
+    </div>
 
 <h3 align="center">📈 Pinned Repositories 📈</h3>
     <div align="center">
@@ -162,19 +179,14 @@
         </a>
     </div>
 
-<h3 align="center"> 🟩⬜ Contributions 🟩⬜</h3>
-    <div align="center">
-        <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
+<div align="center">
+        <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"> 
+            https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6 
+        </a>
     </div>
-
-<br clear="both">
 </head>
 <body>
     <div class="serpiente"></div>
     <br/>
-    <div align="center">
-        <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"> href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6"
-        </a>
-    </div>
 </body>
 </html>
