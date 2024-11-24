@@ -141,7 +141,18 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-2_Algorithms_TF&theme=dark" alt="Pinned Repo 4" /><br/>
         </a>
     </div>
-    <div class="center">
+   <h3 align="center"> 🟩⬜ Contributions 🟩⬜</h3>
+    <div align="center">
+        <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
+    </div>
+
+<br clear="both">
+</head>
+<body>
+    <div class="serpiente"></div>
+    <br/>
+    <div align="center">
+ <div class="center">
         <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"> 
             
 </a></div>
@@ -150,4 +161,5 @@
 
 </body>
 </html>
+
 
