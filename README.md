@@ -6,7 +6,6 @@
     <h2 align="left">Hi 👋! My name is Stephano Chavez and I'm a Information System Management Student with 6 years of experience, from Peru.</h2>
     <br><br>
     <h3 align="left">💬 Languages 💬</h3>
-    <br><br>
     <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
         <img width="12" />
@@ -44,7 +43,6 @@
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
  <h3 align="left">🔧 Tools 🔧</h3>
-    <br><br>
     
 <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
@@ -135,7 +133,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
     
 <br clear="both">
- <h3 align="left">🏆 GitHub Trophies 🏆</h3>
+<h3 align="left">🏆 GitHub Trophies 🏆</h3>
     
 ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 <br clear="both">
@@ -168,6 +166,7 @@ https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5
     <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
 <br clear="both">
 <br>
-(https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
+https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in
+    
 </body>
 </html>
