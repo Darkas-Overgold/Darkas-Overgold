@@ -142,21 +142,21 @@ https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5
 
 <h3 align="left">📈 Pinned Repositories 📈</h3>
 <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" /><br/>
 </a>
 <a href="https://github.com/Darkas-Overgold/UPC_2022-1_Programming_I_TF" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" /><br/>
 </a>
 <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Discrete_Mathematics" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Discrete_Mathematics&theme=dark" alt="Pinned Repo 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Discrete_Mathematics&theme=dark" alt="Pinned Repo 3" /><br/>
 </a>
 <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Algorithms_TF" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Algorithms_TF&theme=dark" alt="Pinned Repo 4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Algorithms_TF&theme=dark" alt="Pinned Repo 4" /><br/>
 </a>
 
 <br clear="both">
 <div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" /><br/>
 </div>
 <br clear="both">
  <h3 align="left"> 🟩⬜ Contributions 🟩⬜</h3>
@@ -166,7 +166,7 @@ https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5
     <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
 <br clear="both">
 <br>
-https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in
+https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in<br/>
     
 </body>
 </html>
