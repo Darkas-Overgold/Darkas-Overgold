@@ -150,10 +150,10 @@
 [![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <br>
+<br>
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts"/>
 </div>
-
 <br>
 
 🎵 Music 🎵
