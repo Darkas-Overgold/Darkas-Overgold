@@ -4,24 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/styles.css">
-    <title>Stephano Chavez's Portfolio</title>
-    <style>
-        body {
-            background-color: #121212; /* Dark background */
-            color: white; /* Light text color */
-            font-family: Arial, sans-serif; /* Font style */
-        }
-        h2, h3 {
-            margin: 20px 0; /* Spacing for headings */
-        }
-        .center {
-            text-align: center; /* Center alignment */
-        }
-        .contributions {
-            text-align: center;
-            margin-top: 20px; /* Top margin for contributions section */
-        }
-    </style>
 </head>
 <body>
     <h2 class="center">Hi 👋! My name is Stephano Chavez and I'm an Information System Management Student with 6 years of experience, from Peru.</h2>
