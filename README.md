@@ -123,55 +123,5 @@
 <div align="center"><br/>
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/><br/>
     </div>
-<h3 class="center">🔝 Top Contributed Repo 🔝</h3>
-
-![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
-
----
-</div>
-    <h3 class="center" align="center">📈 Pinned Repositories 📈</h3>
-    <div class="center">
-        <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" /><br/>
-        </a>
-        <a href="https://github.com/Darkas-Overgold/UPC_2022-1_Programming_I_TF" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" /><br/>
-        </a>
-        <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Discrete_Mathematics" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Discrete_Mathematics&theme=dark" alt="Pinned Repo 3" /><br/>
-        </a>
-        <a href="https://github.com/Darkas-Overgold/UPC_2022-2_Algorithms_TF" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-2_Algorithms_TF&theme=dark" alt="Pinned Repo 4" /><br/>
-        </a>
-    <h3 align="center">🟩⬜ Contributions 🟩⬜</h3>
-    <div align="center">
-        <!-- Línea de tiempo de commits -->
-        <div>
-            <h4>Commits Timeline (Mar 2022 - Nov 2024)</h4>
-            <ul>
-                <li><strong>March 2022:</strong> Started contributing to open-source projects.</li>
-                <li><strong>June 2023:</strong> Released my first GitHub repository.</li>
-                <li><strong>September 2023:</strong> Improved contributions by working on collaborative projects.</li>
-                <li><strong>March 2024:</strong> Reached 1000 contributions.</li>
-                <li><strong>November 2024:</strong> Completed a significant open-source project.</li>
-            </ul>
-        </div>
-        <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" />
-    </div>
-    <h3 align="center">🔝 Top Contributed Repo 🔝</h3>
-    <div class="center">
-        <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" />
-        </a>
-    </div>
-    <h3 align="center">📈 Pinned Repositories 📈</h3>
-    <div align="center">
-        <a href="https://github.com/Darkas-Overgold/UPC_2022-1_Programming_I_TF" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" />
-        </a>
-    </div>
-    <div align="center">
-        <img src="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" alt="Profile Visits" />
-    </div>
 </body>
 </html>
