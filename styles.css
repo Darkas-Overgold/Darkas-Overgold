@@ -1,19 +1,29 @@
-        body {
-            background-color: #121212; /* Dark background for dark mode */
-            color: white; /* Light text color */
-        }
-        .serpiente {
-            max-width: 100%;
-            border-radius: 8px;
-        }
-        .contributions {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-direction: column;
-        }
-        .golden-snake {
-            display: inline-block;
-            width: 100%;
-            height: auto;
-        }
+body {
+    background-color: #121212; /* Dark background for dark mode */
+    color: white; /* Light text color */
+    display: flex; /* Use flexbox for centering */
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+    height: 100vh; /* Full viewport height for vertical centering */
+    margin: 0; /* Remove default margin */
+}
+
+.serpiente {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.contributions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center; /* Center text within contributions */
+}
+
+.golden-snake {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
