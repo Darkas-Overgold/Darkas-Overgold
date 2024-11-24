@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h2 class="center">Hi 👋! My name is Stephano Chavez and I'm an Information System Management Student with 6 years of experience, from Peru.</h2>
