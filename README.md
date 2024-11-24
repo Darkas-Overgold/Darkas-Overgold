@@ -123,10 +123,33 @@
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/><br/>
     </div>
 <br clear="both">
+<h3 class="center">🔝 Top Contributed Repo 🔝</h3>
+
+![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
+---
+</div>
+    <h3 class="center" align="center">📈 Pinned Repositories 📈</h3>
+    <div class="center">
+        <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" /><br/>
+        </a>
+        <a href="https://github.com/Darkas-Overgold/UPC_2022-1_Programming_I_TF" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" /><br/>
+        </a>
+        <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Discrete_Mathematics" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Discrete_Mathematics&theme=dark" alt="Pinned Repo 3" /><br/>
+        </a>
+        <a href="https://github.com/Darkas-Overgold/UPC_2022-2_Algorithms_TF" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-2_Algorithms_TF&theme=dark" alt="Pinned Repo 4" /><br/>
+        </a>
+    </div>
+   <h3 align="center"> 🟩⬜ Contributions 🟩⬜</h3>
+    <div align="center">
+        <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
+    </div>
+
 </head>
-<body>
-    <div class="serpiente"></div>
-    <br/>
     <div align="center">
  <div class="center">
         <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"> 
