@@ -17,9 +17,6 @@
         .center {
             text-align: center; /* Center alignment */
         }
-        .badge {
-            margin: 10px 0; /* Spacing for badges */
-        }
         .contributions {
             text-align: center;
             margin-top: 20px; /* Top margin for contributions section */
