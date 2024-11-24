@@ -38,6 +38,7 @@
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
     </div>
+    
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
     <h3 align="center">🔧 Tools 🔧</h3>
     <div align="center">
@@ -95,14 +96,14 @@
         <a href="https://www.instagram.com/darkas_vox_ch/" target="_blank">
             <img src="https://img.shields.io/static/v1?message=darkas_vox_ch&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
         </a>
+        <a href="https://darkas-overgold.itch.io/" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=Darkas&logo=itch.io&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+        </a>
         <a href="https://ko-fi.com/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20girlfriend&logo=ko-fi&label=Comms%20open&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
         </a>
         <a href="https://www.paypal.me/DarkasOvergold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Manuel%20Chavez%20Anton&logo=paypal&label=Tips&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo" />
-        </a>
-        <a href="https://darkas-overgold.itch.io/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=Darkas&logo=itch.io&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
         </a>
         <a href="https://m.twitch.tv/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Darkas_Overgold&logo=twitch&label=Streams%20at&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
@@ -124,7 +125,10 @@
     <div align="center">
         ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
     </div>
-    <h3 align="center">🔝 Top Contributed Repo 🔝</h3>
+    <div align="center">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" /><br/>
+    </div>
+     <h3 align="center">🔝 Top Contributed Repo 🔝</h3>
     <div align="center">
         <a href="https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true" target="_blank">
             https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true
@@ -144,9 +148,6 @@
         <a href="https://github.com/Darkas-Overgold/UPC_2022-2_Algorithms_TF" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-2_Algorithms_TF&theme=dark" alt="Pinned Repo 4" /><br/>
         </a>
-    </div>
-    <div align="center">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" /><br/>
     </div>
     <h3 align="center"> 🟩⬜ Contributions 🟩⬜</h3>
     <div align="center">
