@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Stephano Chavez and I'm a Information System Management Student with 6 years of experience, from Peru.</h2>
-##
 <br>
 <h3 align="left">💬 Languages 💬</h3>
 <br> 
