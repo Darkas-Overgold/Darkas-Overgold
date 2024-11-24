@@ -157,16 +157,16 @@
 <h3 align="left">📈 Pinned Repositories 📈</h3>
 
 <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=nombre_del_repo_1&theme=dark" alt="Pinned Repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repoZegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" />
 </a>
-<a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Python_Programming" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=nombre_del_repo_2&theme=dark" alt="Pinned Repo 2" />
+<a href="https://github.com/Darkas-Overgold/UPC_2022-1_Programming_I_TF" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" />
 </a>
 <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Discrete_Mathematics" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=nombre_del_repo_3&theme=dark" alt="Pinned Repo 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Discrete_Mathematic&theme=dark" alt="Pinned Repo 3" />
 </a>
 <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Algorithms_TF" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=nombre_del_repo_4&theme=dark" alt="Pinned Repo 4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Algorithms_TF&theme=dark" alt="Pinned Repo 4" />
 </a>
     
 [![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
