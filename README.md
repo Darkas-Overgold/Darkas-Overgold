@@ -124,14 +124,13 @@
         <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts" />
     </div>
     <br clear="both">
-    ### 🔝 Top Contributed Repo
+🔝 Top Contributed Repo
     ![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
     <br clear="both">
     <div align="center">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" />
     </div>
     <br clear="both">
-    ---
     <br>
     
  📊 GitHub Stats: 📊
@@ -139,7 +138,7 @@
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
     
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
     
 🏆 GitHub Trophies 🏆
     
@@ -157,12 +156,13 @@
     <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Algorithms_TF" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Algorithms_TF&theme=dark" alt="Pinned Repo 4" />
     </a>
-https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in
         
 🟩⬜ Contributions 🟩⬜
 </head>
 <body>
     <div class="serpiente"></div>
     <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" />  
+    https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in
+    
 </body>
 </html>
