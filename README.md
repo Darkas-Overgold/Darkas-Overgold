@@ -1,15 +1,9 @@
-<br> 
-
 <h2 align="left">Hi 👋! My name is Stephano Chavez and I'm a Information System Management Student with 6 years of experience, from Peru.</h2>
-
 ###
-
 <br>
-
 <h3 align="left">💬 Languages 💬</h3>
-
+<br> 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -43,19 +37,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
 </div>
-
-
-
 ###
-
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-
 <br>
-
 <h3 align="left">🔧 Tools 🔧</h3>
-
+<br>
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -113,9 +100,8 @@
 ###
 
 <br>
-
 <h3 align="left">Media</h3>
-
+<br> 
 ###
 
 <div align="left">
@@ -152,23 +138,24 @@
 </div>
 
 ##
-
 ## 📊 GitHub Stats:
+<br> 
 ![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+<br> 
 ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔝 Top Contributed Repo
+<br> 
 ![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ##
-
 <br>
 
 <div align="center">
@@ -182,3 +169,4 @@
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"  />
 </div>
+<br> 
