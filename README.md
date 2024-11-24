@@ -1,3 +1,47 @@
+<!DOCTYPE html>
+<html lang="S´P">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+
+        .serpiente {
+            width: 100px;
+            height: 100px;
+            background-color: gold;
+            border-radius: 50%;
+            position: relative;
+            animation: slither 2s infinite ease-in-out;
+        }
+
+        @keyframes slither {
+            0% {
+                transform: translate(0, 0);
+            }
+            25% {
+                transform: translate(50px, 20px);
+            }
+            50% {
+                transform: translate(-50px, 20px);
+            }
+            75% {
+                transform: translate(50px, 0);
+            }
+            100% {
+                transform: translate(0, 0);
+            }
+        }
+    </style>
+</head>
+<body>
 <h2 align="left">Hi 👋! My name is Stephano Chavez and I'm a Information System Management Student with 6 years of experience, from Peru.</h2>
 <br><br>
 <h3 align="left">💬 Languages 💬</h3>
@@ -172,15 +216,10 @@
 ## 🟩⬜ Contributions 🟩⬜
 
 <!-- Imágenes Responsivas -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output_dark.png">
-  <img alt="@Darkas-Overgold" src="output_light.png">
-</picture>
+   
+![Serpiente Dorada](<div class="serpiente"></div>)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
-</picture>
+![@Darkas-Overgold](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</body>
+</html>
