@@ -155,7 +155,6 @@ https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5
 <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Algorithms_TF" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Algorithms_TF&theme=dark" alt="Pinned Repo 4" />
 </a>
-[![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <br clear="both">
 <div align="center">
@@ -166,8 +165,9 @@ https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5
 </head>
 <body>
     <div class="serpiente"></div>
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" />
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
 <br clear="both">
 <br>
+(https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
 </body>
 </html>
