@@ -166,17 +166,15 @@
 
 - uses: Platane/snk@v3
   with:
-    github_user_name: ${{ Darkas-Overgold }}
+    github_user_name: ${{ Manuel Stephano Chavez Anton }}
 
     # Lista de archivos a generar.
     # Cada archivo por línea. Cada salida se puede personalizar con opciones como cadena de consulta.
     #
     # Opciones soportadas:
-    # - palette:     Un conjunto de colores, uno de [github, github-dark, github-light]
-    # - color_snake: Color de la serpiente
-    # - color_dots:  Lista de colores de los puntos separados por comas.
-    #                 El primero es para 0 contribuciones, luego va de la baja a la alta contribución.
-    #                 Se esperan exactamente 5 colores.
+    # - palette:     github-dark
+    # - color_snake: goldenrod
+    # - color_dots:  goldenrod
     outputs: |
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
