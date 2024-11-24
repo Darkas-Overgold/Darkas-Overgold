@@ -81,42 +81,6 @@ I'm an Information System Management Student with 6 years of experience, from Pe
 <!-- Repite la línea anterior para más repositorios pinneados -->
 
 <br><br>
-    <style>
-        /* Tu CSS existente */
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-            margin: 0;
-        }
-        .serpiente {
-            width: 100px;
-            height: 100px;
-            background-color: gold;
-            border-radius: 50%;
-            position: relative;
-            animation: slither 2s infinite ease-in-out;
-        }
-        @keyframes slither {
-            0% {
-                transform: translate(0, 0);
-            }
-            25% {
-                transform: translate(50px, 20px);
-            }
-            50% {
-                transform: translate(-50px, 20px);
-            }
-            75% {
-                transform: translate(50px, 0);
-            }
-            100% {
-                transform: translate(0, 0);
-            }
-        }
-    </style>
 </head>
 <body>
     <div class="serpiente"></div>
