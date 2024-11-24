@@ -147,7 +147,6 @@
 <br><br> 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
