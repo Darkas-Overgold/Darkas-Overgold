@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Stephano Chavez</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -123,5 +122,18 @@
 <div align="center"><br/>
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/><br/>
     </div>
+<br clear="both">
+</head>
+<body>
+    <div class="serpiente"></div>
+    <br/>
+    <div align="center">
+ <div class="center">
+        <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"> 
+            
+</a></div>
+---
+[![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
+
 </body>
 </html>
