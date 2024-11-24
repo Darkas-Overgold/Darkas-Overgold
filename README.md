@@ -124,8 +124,10 @@
         <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=manuelstephanochavez&theme=dark" alt="Layout with last medium posts" />
     </div>
     <br clear="both">
-🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+🔝 Top Contributed Repo 🔝
+
+https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true
+
 <br clear="both">
 <div align="center">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" />
