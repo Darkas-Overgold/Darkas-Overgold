@@ -125,44 +125,44 @@
     </div>
     <br clear="both">
 🔝 Top Contributed Repo
-    ![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
-    <br clear="both">
-    <div align="center">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" />
-    </div>
-    <br clear="both">
-    <br>
+![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+<br clear="both">
+<div align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" />
+</div>
+<br clear="both">
+<br>
     
  📊 GitHub Stats: 📊
- ![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
     
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
     
 🏆 GitHub Trophies 🏆
     
 ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-    <h3 align="left">📈 Pinned Repositories 📈</h3>
-    <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" />
-    </a>
-    <a href="https://github.com/Darkas-Overgold/UPC_2022-1_Programming_I_TF" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" />
-    </a>
-    <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Discrete_Mathematics" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Discrete_Mathematics&theme=dark" alt="Pinned Repo 3" />
-    </a>
-    <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Algorithms_TF" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Algorithms_TF&theme=dark" alt="Pinned Repo 4" />
-    </a>
+<h3 align="left">📈 Pinned Repositories 📈</h3>
+<a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" />
+</a>
+<a href="https://github.com/Darkas-Overgold/UPC_2022-1_Programming_I_TF" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" />
+</a>
+<a href="https://github.com/Darkas-Overgold/UPC_2023-1_Discrete_Mathematics" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Discrete_Mathematics&theme=dark" alt="Pinned Repo 3" />
+</a>
+<a href="https://github.com/Darkas-Overgold/UPC_2023-1_Algorithms_TF" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Algorithms_TF&theme=dark" alt="Pinned Repo 4" />
+</a>
         
 🟩⬜ Contributions 🟩⬜
 </head>
 <body>
     <div class="serpiente"></div>
     <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" />  
-    https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in
+    [![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
     
 </body>
 </html>
