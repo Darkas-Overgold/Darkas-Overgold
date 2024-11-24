@@ -8,10 +8,8 @@
 <body>
     <h2 class="center">Hi 👋! My name is Stephano Chavez and I'm an Information System Management Student with 6 years of experience, from Peru.</h2>
     ---
-[![]
         <h3 align="center">💬 Languages 💬</h3>
     ---
-[![]
     <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
         <img width="12" />
@@ -50,7 +48,6 @@
 
 <h3 align="center">🔧 Tools 🔧</h3>
 ---
-[![]
     <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
         <img width="12" />
@@ -89,7 +86,6 @@
 
 <h3 align="center"> 🌍 Media 🌍</h3>
 ---
-[![]
     <div align="center">
         <a href="https://linktr.ee/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Darkas%20Overgold&logo=linktree&label=About%20me&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
@@ -125,15 +121,14 @@
             <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=NSFW&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
         </a>
     </div>
-<div align="center">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" /><br/>
+<div align="center"><br/>
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/><br/>
     </div>
 <h3 class="center">🔝 Top Contributed Repo 🔝</h3>
 ---
 [![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
-[![]
 </div>
     <h3 class="center">📈 Pinned Repositories 📈</h3>
     <div class="center">
