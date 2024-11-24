@@ -145,14 +145,23 @@
     📊 GitHub Stats 📊
     <br><br>
     ![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+    🏆 GitHub Trophies 🏆
+    ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+    
     <!-- Agregar aquí los repositorios pinneados -->
+    
     <h3 align="left">📈 Pinned Repositories 📈</h3>
+    
     <br>
     <a href="https://github.com/Darkas-Overgold?tab=repositories" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=nombre_del_repo&theme=dark" alt="Pinned Repo" />
     </a>
     <!-- Repite la línea anterior para más repositorios pinneados -->
     <br><br>
+
+    ---
+[![](https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6)](https://visitcount.itsvg.in)
+    
 </head>
 <body>
     <div class="serpiente"></div>
