@@ -12,7 +12,6 @@
             background-color: #f0f0f0;
             margin: 0;
         }
-
         .serpiente {
             width: 100px;
             height: 100px;
@@ -21,7 +20,6 @@
             position: relative;
             animation: slither 2s infinite ease-in-out;
         }
-
         @keyframes slither {
             0% {
                 transform: translate(0, 0);
@@ -217,7 +215,7 @@
 
 <!-- Imágenes Responsivas -->
    
-![Serpiente Dorada](<div class="serpiente"></div>)
+(<div class="serpiente"></div>)
 
 ![@Darkas-Overgold](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
