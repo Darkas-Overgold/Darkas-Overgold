@@ -121,15 +121,16 @@
     </div>
 
 <div align="center">
-        ![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-        ![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
         ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-    </div>
+</div>
 
 <h3 align="center">🏆 GitHub Trophies 🏆</h3>
     <div align="center">
-        ![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-    </div>
+![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)      
+</div>
 
 <div align="center">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song" /><br/>
@@ -158,7 +159,7 @@
         </a>
     </div>
 
-<h3 align="center"> 🟩⬛ Contributions 🟩⬛</h3>
+<h3 align="center"> 🟩⬜ Contributions 🟩⬜</h3>
     <div align="center">
         <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
     </div>
