@@ -172,17 +172,29 @@
     <h3 class="center" align="center">📈 Pinned Repositories 📈</h3>
     <br>
     <div class="center" align="center">
+        <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Megatronus-Store" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Megatronus-Store&theme=dark" alt="Pinned Repo 1" /><br/>
+        </a>
+        <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Poke-wiki" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Poke-wiki&theme=dark" alt="Pinned Repo 1" /><br/>
+        </a>
         <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" /><br/>
-        </a>
-        <a href="https://github.com/Darkas-Overgold/UPC_2022-1_Programming_I_TF" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" /><br/>
         </a>
         <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Discrete_Mathematics" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Discrete_Mathematics&theme=dark" alt="Pinned Repo 3" /><br/>
         </a>
+        <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Algorithms_Data_Structures_TP" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Algorithms_Data_Structures_TP&theme=dark" alt="Pinned Repo 3" /><br/>
+        </a>
+        <a href="https://github.com/Darkas-Overgold/UPC_2023-1_Design_and_Software_Patterns" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2023-1_Design_and_Software_Patterns&theme=dark" alt="Pinned Repo 3" /><br/>
+        </a>
         <a href="https://github.com/Darkas-Overgold/UPC_2022-2_Algorithms_TF" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-2_Algorithms_TF&theme=dark" alt="Pinned Repo 4" /><br/>
+        </a>
+        <a href="https://github.com/Darkas-Overgold/UPC_2022-1_Programming_I_TF" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" /><br/>
         </a>
     </div>
         <br>
