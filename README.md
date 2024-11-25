@@ -7,9 +7,7 @@
 </head>
 <body>
     <h2 class="center" align="center">Hi 👋! My name is Stephano Chavez and I'm an Information System Management Student with 6 years of experience, from Peru.</h2>
-    <br>
     <h3 align="center">💬 Languages 💬</h3>
-    <br>
     <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
         <img width="12" />
@@ -43,7 +41,6 @@
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
     </div>
-    <br>
     <div class="center" align="center">
         
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
@@ -51,9 +48,7 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
     
  </div>
-<br>
     <h3 align="center">🔧 Tools 🔧</h3>
-    <br>
     <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
         <img width="12" />
@@ -87,7 +82,6 @@
         <img width="12" />
         <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo" />
     </div>
-    <br>
     <div class="center" align="center">
         
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -120,9 +114,7 @@
         ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
         ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
     </div>
-    <br>
     <h3 class="center" align="center"> 🌍 Media 🌍</h3>
-    <br>
     <div align="center">
         <a href="https://linktr.ee/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Darkas%20Overgold&logo=linktree&label=About%20me&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
@@ -158,19 +150,14 @@
             <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=NSFW&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
         </a>
     </div>
-    <br>
     <div class="center" align="center">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/><br/>
     </div>
-    <br>
     <h3 class="center" align="center">🔝 Top Contributed Repo 🔝</h3>
-    <br>
     <div class="center" align="center">
         ![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
     </div>
-    <br>
     <h3 class="center" align="center">📈 Pinned Repositories 📈</h3>
-    <br>
     <div class="center" align="center">
         <a href="https://github.com/Darkas-Overgold/PUCP_2024-2_Alley_Radar" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=PUCP_2024-2_Alley_Radar&theme=dark" alt="Pinned Repo 1" /><br/>
@@ -205,16 +192,14 @@
         <a href="https://github.com/Darkas-Overgold/UPC_2022-1_Programming_I_TF" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" /><br/>
         </a>
-    </div>
-        <br>
+    </div
     <div class="center" align="center">
         <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"></a>
         <img src="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" alt="Visit Count"/>
     </div>
     <h3 align="center">🟩⬜ Contributions 🟩⬜</h3>
-    <br>
     <div align="center">
-    <h3 align="left">302 contributions this year</h3>
+    <h3 align="left">303 contributions this year</h3>
 <p align="center">Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec</p>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br>
 <a align="left" 
