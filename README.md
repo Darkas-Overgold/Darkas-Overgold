@@ -153,11 +153,30 @@
     <div class="center" align="center">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/><br/>
     </div>
-    <h3 class="center" align="center">🔝 Top Contributed Repo 🔝</h3>
-    <div class="center" align="center">
-        ![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+<h3 class="center" align="center">📊 GitHub Stats 📊</h3>
+<div class="center" align="center">
+    
+![](https://github-readme-stats.vercel.app/api?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Darkas-Overgold&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkas-Overgold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     </div>
-    <h3 class="center" align="center">📈 Pinned Repositories 📈</h3>
+
+
+<h3 class="center" align="center">🏆 GitHub Trophies 🏆</h3>
+<div class="center" align="center">
+    
+![](https://github-profile-trophy.vercel.app/?username=Darkas-Overgold&theme=neon&no-frame=false&no-bg=false&margin-w=4)
+    </div>
+
+    
+<h3 class="center" align="center">🔝 Top Contributed Repo 🔝</h3>
+    <div class="center" align="center">
+        
+![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+        
+</div>
+    
+<h3 class="center" align="center">📈 Pinned Repositories 📈</h3>
     <div class="center" align="center">
         <a href="https://github.com/Darkas-Overgold/PUCP_2024-2_Alley_Radar" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=PUCP_2024-2_Alley_Radar&theme=dark" alt="Pinned Repo 1" /><br/>
