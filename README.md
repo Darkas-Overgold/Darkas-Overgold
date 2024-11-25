@@ -214,12 +214,13 @@
     <h3 align="center">🟩⬜ Contributions 🟩⬜</h3>
     <br>
     <div align="center">
-    <h3 align="left">300 contributions this year</h3>
+    <h3 align="left">302 contributions this year</h3>
 <p align="center">Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec</p>
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br>
 <a align="left" 
-   href="https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile" target="_blank" rel="noopener noreferrer"> Learn how we count contributions      Less⬜🟩
+   href="https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile" target="_blank" rel="noopener noreferrer"> Learn how we count contributions
 </a>
+<p align="rigth">Less⬜🟩</p>
 </div>
     <h3 class="center" align="center">🗓️ Timeline of Contributions 🗓️</h3>
     <div class="timeline" align="left">
