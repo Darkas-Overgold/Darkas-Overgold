@@ -159,13 +159,13 @@
         </a>
     </div>
     <br>
-    <div class="center">
+    <div class="center" align="center">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/><br/>
     </div>
     <br>
     <h3 class="center" align="center">🔝 Top Contributed Repo 🔝</h3>
     <br>
-    <div class="center">
+    <div class="center" align="center">
         ![](https://github-contributor-stats.vercel.app/api?username=Darkas-Overgold&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
     </div>
     <br>
@@ -192,7 +192,7 @@
         <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
     </div>
     <br>
-    <div class="center">
+    <div class="center" align="center">
         <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"></a>
         <img src="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" alt="Visit Count"/>
     </div>
