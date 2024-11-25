@@ -172,11 +172,20 @@
     <h3 class="center" align="center">📈 Pinned Repositories 📈</h3>
     <br>
     <div class="center" align="center">
+        <a href="https://github.com/Darkas-Overgold/PUCP_2024-2_Alley_Radar" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=PUCP_2024-2_Alley_Radar&theme=dark" alt="Pinned Repo 1" /><br/>
+        </a>
+        <a href="https://github.com/Imerakicraft/catalog" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imerakicraft&repo=catalog&theme=dark" alt="Pinned Repo 1" /><br/>
+        </a>
         <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Megatronus-Store" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Megatronus-Store&theme=dark" alt="Pinned Repo 1" /><br/>
         </a>
         <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Poke-wiki" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Poke-wiki&theme=dark" alt="Pinned Repo 1" /><br/>
+        </a>
+        <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Damlest" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Damlest&theme=dark" alt="Pinned Repo 1" /><br/>
         </a>
         <a href="https://github.com/Darkas-Overgold/Zegel_2024-2_Web_Development" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=Zegel_2024-2_Web_Development&theme=dark" alt="Pinned Repo 1" /><br/>
@@ -205,8 +214,13 @@
     <h3 align="center">🟩⬜ Contributions 🟩⬜</h3>
     <br>
     <div align="center">
-        <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
-    </div>
+    <h3 align="left">300 contributions this year</h3>
+<p align="center">Dec Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec</p>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" />
+<a align="left" 
+   href="https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile" target="_blank" rel="noopener noreferrer"> Learn how we count contributions      Less⬜🟩
+</a>
+</div>
     <h3 class="center" align="center">🗓️ Timeline of Contributions 🗓️</h3>
     <div class="timeline" align="left">
         <div class="timeline-event timeline-event-left">
