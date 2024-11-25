@@ -195,5 +195,24 @@
     <div align="center">
         <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
     </div>
+    <h3 class="center" align="center">🗓️ Timeline of Contributions 🗓️</h3>
+    <div class="timeline">
+        <div class="timeline-event timeline-event-left">
+            <div class="timeline-event-date">March 2022</div>
+            <p>Started contributing to open source projects.</p>
+        </div>
+        <div class="timeline-event timeline-event-right">
+            <div class="timeline-event-date">June 2022</div>
+            <p>Completed first major project in Python.</p>
+        </div>
+        <div class="timeline-event timeline-event-left">
+            <div class="timeline-event-date">September 2023</div>
+            <p>Joined a team working on web development using React.js.</p>
+        </div>
+        <div class="timeline-event timeline-event-right">
+            <div class="timeline-event-date">November 2024</div>
+            <p>Presented a project at a local tech conference.</p>
+        </div>
+    </div>
 </body>
 </html>
