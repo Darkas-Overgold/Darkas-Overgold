@@ -14,6 +14,7 @@ body {
 h2, h3 {
     margin: 10px 0;
 }
+
 .center {
     display: flex;
     flex-direction: column;
@@ -39,4 +40,49 @@ h2, h3 {
     display: inline-block;
     width: 100%;
     height: auto;
+}
+
+.timeline {
+    position: relative;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    width: 4px;
+    background-color: #aaa; /* You may want to change this for better contrast */
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    transform: translateX(-50%);
+}
+
+.timeline-event {
+    padding: 10px;
+    background-color: #f9f9f9; /* Event background color */
+    border-radius: 5px;
+    margin: 10px 0;
+    width: 45%;
+    position: relative;
+}
+
+.timeline-event-left {
+    left: 0;
+    transform: translateX(-20px);
+}
+
+.timeline-event-right {
+    left: 55%;
+    transform: translateX(20px);
+}
+
+.timeline-event p {
+    margin: 0;
+}
+
+.timeline-event-date {
+    font-weight: bold;
+    margin-bottom: 5px;
 }
