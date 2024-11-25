@@ -196,7 +196,7 @@
         <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br/>
     </div>
     <h3 class="center" align="center">🗓️ Timeline of Contributions 🗓️</h3>
-    <div class="timeline">
+    <div class="timeline" align="left">
         <div class="timeline-event timeline-event-left">
             <div class="timeline-event-date">March 2022</div>
             <p>Started contributing to open source projects.</p>
