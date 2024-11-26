@@ -151,7 +151,8 @@
         </a>
     </div>
     <div class="center" align="center">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/><br/>
+    <br>
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/>
     </div>
 <h3 class="center" align="center">📊 GitHub Stats 📊</h3>
 <div class="center" align="center">
@@ -212,7 +213,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=UPC_2022-1_Programming_I_TF&theme=dark" alt="Pinned Repo 2" /><br/>
         </a>
     </div>
-    <h3 align="center">🟩⬜ Contributions 🟩⬜</h3>
+    <h3 align="center">🟩⬜ Contributions ⬜🟩</h3>
     <div align="center">
 <p align="center">Dec&nbsp;&nbsp;&nbsp;Jan&nbsp;&nbsp;&nbsp;Feb&nbsp;&nbsp;&nbsp;Mar&nbsp;&nbsp;&nbsp;Apr&nbsp;&nbsp;&nbsp;May&nbsp;&nbsp;&nbsp;Jun&nbsp;&nbsp;&nbsp;Jul&nbsp;&nbsp;&nbsp;Aug&nbsp;&nbsp;&nbsp;Sep&nbsp;&nbsp;&nbsp;Oct&nbsp;&nbsp;&nbsp;Nov&nbsp;&nbsp;&nbsp;</p>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br>
