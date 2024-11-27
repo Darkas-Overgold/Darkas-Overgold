@@ -119,7 +119,7 @@
         <a href="https://linktr.ee/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Darkas%20Overgold&logo=linktree&label=About%20me&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo" />
         </a>
-        <a href="[https://www.linkedin.com/in/darkas/](https://www.linkedin.com/in/darkas/details/certifications/)" target="_blank">
+        <a href="https://www.linkedin.com/in/darkas/details/certifications/" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Manuel%20Stephano%20Chavez%20Anton&logo=linkedin&label=Certificates%20at&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
         </a>
         <a href="https://discord.com/users/1c07914389250b..." target="_blank">
