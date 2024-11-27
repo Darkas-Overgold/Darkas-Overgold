@@ -179,6 +179,9 @@
     
 <h3 class="center" align="center">📈 Pinned Repositories 📈</h3>
     <div class="center" align="center">
+        <a href="https://github.com/Darkas-Overgold/While_Coffee_True" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=While_Coffee_True&theme=dark" alt="Pinned Repo 1" /><br/>
+        </a>
         <a href="https://github.com/Darkas-Overgold/PUCP_2024-2_Alley_Radar" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darkas-Overgold&repo=PUCP_2024-2_Alley_Radar&theme=dark" alt="Pinned Repo 1" /><br/>
         </a>
