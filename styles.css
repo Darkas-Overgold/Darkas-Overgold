@@ -107,4 +107,62 @@ a {
     font-size: 1.2em;
     margin: 5px 0;
 }
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e2f;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+        .center {
+            text-align: center;
+        }
+        h2, h3 {
+            margin: 20px;
+            color: #ffcc00;
+        }
 
+        div {
+            margin: 10px auto;
+            padding: 10px;
+        }
+
+        img {
+            border-radius: 5px;
+            margin: 5px;
+            transition: transform 0.3s ease, border 0.3s ease;
+        }
+
+        img:hover {
+            transform: scale(1.1);
+            border: 2px solid #ffcc00;
+        }
+
+        #spotify-stats {
+            background: linear-gradient(135deg, #1db954, #191414);
+            padding: 20px;
+            border-radius: 15px;
+            color: #fff;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        }
+
+        .timeline-event {
+            margin: 20px 0;
+            padding: 10px;
+            border-radius: 8px;
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        .timeline-event-left {
+            text-align: left;
+        }
+
+        .timeline-event-right {
+            text-align: right;
+        }
+
+        .timeline-event-date {
+            font-weight: bold;
+            color: #ffcc00;
+        }
