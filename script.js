@@ -33,3 +33,24 @@
         }
     }
     fetchSpotifyData();
+        document.addEventListener("DOMContentLoaded", () => {
+            // Spotify Stats Dynamic Loading Example
+            const spotifyStats = document.getElementById("spotify-stats");
+
+            // Mocking data for simplicity; replace with API call as needed
+            const artists = [
+                "DPOS",
+                "The Strokes",
+                "Franz Ferdinand",
+                "The Frights",
+                "Pedro Suárez Vértiz",
+                "Zepet",
+            ];
+
+            spotifyStats.innerHTML = `
+                <h4>🎧 Artistas más escuchados:</h4>
+                <ul>
+                    ${artists.map((artist) => `<li>${artist}</li>`).join("")}
+                </ul>
+            `;
+        });
