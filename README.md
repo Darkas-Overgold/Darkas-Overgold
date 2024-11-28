@@ -226,7 +226,11 @@
     <h1 align="center">🟩⬜ Contributions ⬜🟩</h1>
     <div align="center">
 <p align="center">Dec&nbsp;&nbsp;&nbsp;Jan&nbsp;&nbsp;&nbsp;Feb&nbsp;&nbsp;&nbsp;Mar&nbsp;&nbsp;&nbsp;Apr&nbsp;&nbsp;&nbsp;May&nbsp;&nbsp;&nbsp;Jun&nbsp;&nbsp;&nbsp;Jul&nbsp;&nbsp;&nbsp;Aug&nbsp;&nbsp;&nbsp;Sep&nbsp;&nbsp;&nbsp;Oct&nbsp;&nbsp;&nbsp;Nov&nbsp;&nbsp;&nbsp;</p>
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake-light.svg" />
+  <img alt="github-snake" src="assets/github-snake-dark.svg" />
+</picture>
 <a align="left" 
    href="https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile" target="_blank" rel="noopener noreferrer"> Learn how we count contributions
 </a>
