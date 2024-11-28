@@ -131,8 +131,8 @@
         <a href="https://youtube.com/@darkas_goldenvox?si=cW8HlLnrTiDhjcZU" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Stephano&logo=youtube&label=Software%20Engineering%20PhD%20Adventure&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
         </a>
-        <a href="https://www.instagram.com/darkas_vox_ch/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=darkas_vox_ch&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+        <a href="https://www.instagram.com/dev.darkas.me_vox_ch" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=dev.darkas.me_vox_ch&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
         </a>
         <a href="https://ko-fi.com/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20girlfriend&logo=ko-fi&label=Comms%20open&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
@@ -151,6 +151,10 @@
         </a>
     </div>
     <div class="center" align="center">
+    <h3 align="center">🎵 Mis estadísticas de Spotify 🎵</h3>
+<div id="spotify-stats" class="center" align="center">
+    <p>Cargando estadísticas de Spotify...</p>
+</div>
     <br>
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/>
     </div>
@@ -248,4 +252,41 @@
         <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"></a>
         <img src="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" alt="Visit Count"/><br/>
 </body>
+<script>
+    const clientId = 'TU_CLIENT_ID'; // Reemplázalo con tu Client ID
+    const clientSecret = 'TU_CLIENT_SECRET'; // Reemplázalo con tu Client Secret
+    async function fetchSpotifyData() {
+        try {
+            // Obtener token de acceso
+            const tokenResponse = await fetch('https://accounts.spotify.com/api/token', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                    Authorization: `Basic ${btoa(clientId + ':' + clientSecret)}`,
+                },
+                body: 'grant_type=client_credentials',
+            });
+            const tokenData = await tokenResponse.json();
+            const accessToken = tokenData.access_token;
+            // Obtener artistas más escuchados
+            const topArtistsResponse = await fetch(
+                'https://api.spotify.com/v1/me/top/artists?limit=5',
+                {
+                    headers: { Authorization: `Bearer ${accessToken}` },
+                }
+            );
+            const topArtistsData = await topArtistsResponse.json();
+            // Mostrar artistas
+            const statsContainer = document.getElementById('spotify-stats');
+            statsContainer.innerHTML = '<h4>Artistas más escuchados:</h4><ul>' +
+                topArtistsData.items.map(artist => `<li>${artist.name}</li>`).join('') +
+                '</ul>';
+        } catch (error) {
+            console.error('Error fetching Spotify data:', error);
+            document.getElementById('spotify-stats').innerText =
+                'No se pudieron cargar las estadísticas de Spotify.';
+        }
+    }
+    fetchSpotifyData();
+</script>
 </html>
