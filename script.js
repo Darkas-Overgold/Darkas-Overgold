@@ -77,3 +77,32 @@ document.addEventListener('DOMContentLoaded', () => {
             statsContainer.innerHTML = '<h4>Artistas más escuchados:</h4><ul>' +
                 topArtistsData.items.map(artist => `<li>${artist.name}</li>`).join('') +
                 '</ul>';
+<p>Cargando estadísticas de Spotify...</p>
+</div>
+        } catch (error) {
+            console.error('Error fetching Spotify data:', error);
+            document.getElementById('spotify-stats').innerText =
+                'No se pudieron cargar las estadísticas de Spotify.';
+        }
+    }
+    fetchSpotifyData();
+        document.addEventListener("DOMContentLoaded", () => {
+            // Spotify Stats Dynamic Loading Example
+            const spotifyStats = document.getElementById("spotify-stats");
+            // Mocking data for simplicity; replace with API call as needed
+            const artists = [
+                "DPOS",
+                "The Strokes",
+                "Franz Ferdinand",
+                "The Frights",
+                "Pedro Suárez Vértiz",
+                "Zepet",
+            ];
+            spotifyStats.innerHTML = `
+            
+<h4>🎧 Artistas más escuchados:</h4>
+                <ul>
+                    ${artists.map((artist) => `<li>${artist}</li>`).join("")}
+                </ul>
+            `;
+        });
