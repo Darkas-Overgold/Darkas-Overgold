@@ -253,8 +253,8 @@
         <img src="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" alt="Visit Count"/><br/>
 </body>
 <script>
-    const clientId = 'TU_CLIENT_ID'; // Reemplázalo con tu Client ID
-    const clientSecret = 'TU_CLIENT_SECRET'; // Reemplázalo con tu Client Secret
+    const clientId = 'c200bd13a7474d00b60a1650637610fd'; // Reemplázalo con tu Client ID
+    const clientSecret = '8a603ccfca3d4d06a4bb710a9641ebbc'; // Reemplázalo con tu Client Secret
     async function fetchSpotifyData() {
         try {
             // Obtener token de acceso
