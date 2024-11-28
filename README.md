@@ -154,6 +154,7 @@
     <h3 align="center">🎵 Mis estadísticas de Spotify 🎵</h3>
 <div id="spotify-stats" class="center" align="center">
     <p>Cargando estadísticas de Spotify...</p>
+    <link rel="script" href="script.js">
 </div>
     <br>
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqjnud6eo52nwzyrr5o75wb63m&unique={true|1|on|yes}?theme=dark&scan=true&spin=true&rainbow=true" alt="Widget with the current Spotify song"/>
