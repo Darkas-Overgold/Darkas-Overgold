@@ -227,9 +227,10 @@
     <div align="center">
 <p align="center">Dec&nbsp;&nbsp;&nbsp;Jan&nbsp;&nbsp;&nbsp;Feb&nbsp;&nbsp;&nbsp;Mar&nbsp;&nbsp;&nbsp;Apr&nbsp;&nbsp;&nbsp;May&nbsp;&nbsp;&nbsp;Jun&nbsp;&nbsp;&nbsp;Jul&nbsp;&nbsp;&nbsp;Aug&nbsp;&nbsp;&nbsp;Sep&nbsp;&nbsp;&nbsp;Oct&nbsp;&nbsp;&nbsp;Nov&nbsp;&nbsp;&nbsp;</p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake-light.svg" />
-  <img alt="github-snake" src="assets/github-snake-dark.svg" />
+    
+![github contribution grid snake animation](https://raw.githubusercontent.com/Darkas-Overgold/Darkas-Overgold/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Darkas-Overgold/Darkas-Overgold/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 </picture>
 <a align="left" 
    href="https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile" target="_blank" rel="noopener noreferrer"> Learn how we count contributions
@@ -256,7 +257,6 @@
         </div>
     </div>
         <div class="center" align="center">
-        <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"></a>
-        <img src="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" alt="Visit Count"/><br/>
+       ![](https://komarev.com/ghpvc/?username=Darkas-Overgold)<br/>
 </body>
 </html>
