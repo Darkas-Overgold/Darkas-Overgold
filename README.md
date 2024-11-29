@@ -252,6 +252,6 @@
         </div>
     </div>
         <div class="center" align="center">
-       ![](https://komarev.com/ghpvc/?username=Darkas-Overgold)<br/>
+       https://komarev.com/ghpvc/?username=Darkas-Overgold<br/>
 </body>
 </html>
