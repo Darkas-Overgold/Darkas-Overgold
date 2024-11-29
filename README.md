@@ -226,12 +226,7 @@
     <h1 align="center">🟩⬜ Contributions ⬜🟩</h1>
     <div align="center">
 <p align="center">Dec&nbsp;&nbsp;&nbsp;Jan&nbsp;&nbsp;&nbsp;Feb&nbsp;&nbsp;&nbsp;Mar&nbsp;&nbsp;&nbsp;Apr&nbsp;&nbsp;&nbsp;May&nbsp;&nbsp;&nbsp;Jun&nbsp;&nbsp;&nbsp;Jul&nbsp;&nbsp;&nbsp;Aug&nbsp;&nbsp;&nbsp;Sep&nbsp;&nbsp;&nbsp;Oct&nbsp;&nbsp;&nbsp;Nov&nbsp;&nbsp;&nbsp;</p>
-<picture>
-    
-![github contribution grid snake animation](https://raw.githubusercontent.com/darkas-Overgold/darkas-Overgold/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/darkas-Overgold/darkas-Overgold/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</picture>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Gusano de Contribución" /><br>
 <a align="left" 
    href="https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile" target="_blank" rel="noopener noreferrer"> Learn how we count contributions
 </a>
