@@ -228,8 +228,8 @@
 <p align="center">Dec&nbsp;&nbsp;&nbsp;Jan&nbsp;&nbsp;&nbsp;Feb&nbsp;&nbsp;&nbsp;Mar&nbsp;&nbsp;&nbsp;Apr&nbsp;&nbsp;&nbsp;May&nbsp;&nbsp;&nbsp;Jun&nbsp;&nbsp;&nbsp;Jul&nbsp;&nbsp;&nbsp;Aug&nbsp;&nbsp;&nbsp;Sep&nbsp;&nbsp;&nbsp;Oct&nbsp;&nbsp;&nbsp;Nov&nbsp;&nbsp;&nbsp;</p>
 <picture>
     
-![github contribution grid snake animation](https://raw.githubusercontent.com/Darkas-Overgold/Darkas-Overgold/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Darkas-Overgold/Darkas-Overgold/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/darkas-Overgold/darkas-Overgold/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/darkas-Overgold/darkas-Overgold/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </picture>
 <a align="left" 
