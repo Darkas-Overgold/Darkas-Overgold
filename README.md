@@ -9,7 +9,7 @@
 <div align="center">
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 <h1 align="center">👋 Stephano Chavez's Profile 👋</h1><br>
-<h2 align="center">Hi! My name is Stephano Chavez, an Information System Management Student with 6 years of experience from Peru. This profile highlights my skills, tools, and contributions.
+<h2 align="center">Hi! My name is Stephano Chavez, an Information System Management Delegate at Zegel, from Peru. This profile highlights my skills, tools, and contributions.
 </div></h2>
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
 
