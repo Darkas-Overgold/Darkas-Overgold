@@ -27,6 +27,12 @@
 <h1 align="center">💬 Languages 💬</h1>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
   <!-- Lenguajes con animación -->
+    <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" width="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" 
+         style="transition: transform 0.3s ease; padding: 10px;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
   <a href="https://www.w3schools.com/js/" target="_blank">
     <img alt="JavaScript" width="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" 
          style="transition: transform 0.3s ease; padding: 10px;" 
@@ -41,12 +47,6 @@
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" width="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" 
-         style="transition: transform 0.3s ease; padding: 10px;" 
-         onmouseover="this.style.transform='scale(1.1)'" 
-         onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" width="50" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" 
          style="transition: transform 0.3s ease; padding: 10px;" 
          onmouseover="this.style.transform='scale(1.1)'" 
          onmouseout="this.style.transform='scale(1)'"/>
