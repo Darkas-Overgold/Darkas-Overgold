@@ -358,7 +358,7 @@
             <p>Presented a project at a local tech conference.</p>
         </div>
     </div>
-        <div class="center" align="center">
-       https://komarev.com/ghpvc/?username=Darkas-Overgold<br/>
+      <a href="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" target="_blank"></a>
+        <img src="https://visitcount.itsvg.in/api?id=Darkas-Overgold&icon=2&color=6" alt="Visit Count"/><br/>
 </body>
 </html>
