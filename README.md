@@ -239,8 +239,8 @@
         <a href="https://youtube.com/@darkas_goldenvox?si=cW8HlLnrTiDhjcZU" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Stephano&logo=youtube&label=Software%20Engineering%20PhD%20Adventure&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
         </a>
-        <a href="https://www.instagram.com/dev.darkas.me_vox_ch" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=dev.darkas.me_vox_ch&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+        <a href="https://www.instagram.com/dev.darkas.me" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=dev.darkas.me&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
         </a>
         <a href="https://ko-fi.com/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Buy%20me%20a%20girlfriend&logo=ko-fi&label=Comms%20open&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
@@ -254,7 +254,7 @@
         <a href="https://m.twitch.tv/darkas_overgold" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Darkas_Overgold&logo=twitch&label=Streams%20at&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
         </a>
-        <a href="https://x.com/Stephano113975" target="_blank">
+        <a href="https://x.com/darkas_dev_me" target="_blank">
             <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=NSFW&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
         </a>
     </div>
